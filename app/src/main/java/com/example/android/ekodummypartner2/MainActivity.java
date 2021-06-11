@@ -1,6 +1,5 @@
 package com.example.android.ekodummypartner2;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import android.widget.Button;
@@ -10,6 +9,8 @@ import android.view.View;
 import android.content.Intent;
 
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import in.co.eko.ekopay.EkoPayActivity;
 import retrofit2.Call;
